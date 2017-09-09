@@ -1,0 +1,13 @@
+color "Author: " green       default
+color author    green        default
+color "Date: "  red          default
+color date      white        default
+color commit      white        default
+color "Merge: "  white       default
+color "Commit: " white       default
+color "CommitDate: " magenta       default
+color "Refs: " magenta       default
+color diff-stat yellow       default
+color diff-index cyan        default
+color graph-commit red       default
+
