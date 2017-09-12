@@ -1,0 +1,15 @@
+# Don't search through generated dirs
+--ignore-dir=.git
+--ignore-dir=.repo
+--ignore-dir=.svn
+
+# don't search generated files
+--ignore-file=is:ignite-ember.js
+--ignore-file=is:ignite-emblem.js
+--ignore-file=is:.tags
+--ignore-file=is:tags
+--ignore-file=is:ID
+--ignore-file=is:cscope.files
+--ignore-file=is:cscope.in.out
+--ignore-file=is:cscope.out
+--ignore-file=is:cscope.po.out
